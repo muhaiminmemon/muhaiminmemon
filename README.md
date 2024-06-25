@@ -36,12 +36,3 @@ Libraries/Frameworks:
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) 
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
-<!-- LeetCode Plugin -->
-name: LeetCode
-uses: lowlighter/metrics@latest
-with:
-  filename: metrics.plugin.leetcode.svg
-  token: NOT_NEEDED
-  base: ""
-  plugin_leetcode: yes
-  plugin_leetcode_sections: solved, skills, recent
