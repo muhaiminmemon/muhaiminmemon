@@ -12,10 +12,9 @@ I am a student at the University of Toronto, passionate about exploring the real
 Check out my [coding portfolio!]()
 
 ## 🌐 Connect with me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([your-linkedin-url](https://www.linkedin.com/in/muhaiminmemon/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]((https://www.linkedin.com/in/muhaiminmemon/))
 
 # 💻 Tech Stack:
-Languages: 
 Languages: 
 ![Python](https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white) 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) 
@@ -35,4 +34,14 @@ Libraries/Frameworks:
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) 
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot) 
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) 
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) 
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+
+<!-- LeetCode Plugin -->
+name: LeetCode
+uses: lowlighter/metrics@latest
+with:
+  filename: metrics.plugin.leetcode.svg
+  token: NOT_NEEDED
+  base: ""
+  plugin_leetcode: yes
+  plugin_leetcode_sections: solved, skills, recent
