@@ -5,7 +5,7 @@ I am a student at the University of Toronto, passionate about exploring the real
 
 ## 🚀 What I'm Up To
 
-- 🤖 Exploring Machine Learning with [scikit-learn](https://scikit-learn.org/)
+- 🤖 Exploring Machine Learning with [scikit-learn](https://scikit-learn.org/) and [TensorFlow](https://www.tensorflow.org/)
 - 💻 Building Spring Boot applications with PostgreSQL
 - ☁️ Exploring cloud technologies with Azure and AWS
 
