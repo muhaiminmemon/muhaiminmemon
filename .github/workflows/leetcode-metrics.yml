@@ -29,10 +29,13 @@ jobs:
           plugin_leetcode_user: muhaim1n
           plugin_leetcode_sections: solved, skills, recent
 
+      - name: Pull the latest changes from remote
+        run: git pull origin main
+
       - name: Commit and push if there are changes
         run: |
           git config --global user.name 'github-actions[bot]'
           git config --global user.email 'github-actions[bot]@users.noreply.github.com'
           git add -A
           git commit -m 'Update LeetCode metrics' || echo "No changes to commit"
-          git push
+          git push origin main
