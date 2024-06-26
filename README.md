@@ -38,5 +38,7 @@ Libraries/Frameworks:
 
 ![LeetCode Stats](./metrics.plugin.leetcode.svg)
 
+<div> <img width="45%" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=muhaiminmemon&show_icons=true&locale=en&layout=compact" alt="muhaiminmemon" /> </div>
+
 
 
