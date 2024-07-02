@@ -7,7 +7,7 @@ I am a student at the University of Toronto, passionate about exploring the real
 
 - 🤖 Exploring Machine Learning with [scikit-learn](https://scikit-learn.org/) and [TensorFlow](https://www.tensorflow.org/)
 - 💻 Building Spring Boot applications with PostgreSQL
-- ☁️ Exploring cloud technologies with Azure and AWS
+- ☁️ Exploring cloud technologies with Azure and AWS - Studying for AZ-104 (Azure Administrator Associate)
 
 Check out my [coding portfolio!]()
 
