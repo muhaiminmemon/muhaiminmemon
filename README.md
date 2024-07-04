@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋 I'm Muhammad Muhaimin</h1>
 
 # 💫 About Me:
-I am a student at the University of Toronto, passionate about exploring the realms of software engineering, machine learning, and cloud technologies.
+I am a student at the University of Toronto, passionate about exploring the realms of software engineering, machine learning, and cloud technologies
 
 ## 🚀 What I'm Up To
 
