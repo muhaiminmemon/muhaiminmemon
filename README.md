@@ -9,8 +9,6 @@ I am a student at the University of Toronto, passionate about exploring the real
 - 💻 Building Spring Boot applications with PostgreSQL
 - ☁️ Exploring cloud technologies with Azure and AWS - Studying for AZ-104 (Azure Administrator Associate)
 
-Check out my [coding portfolio!]()
-
 ## 🌐 Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]((https://www.linkedin.com/in/muhaiminmemon/))
 
@@ -41,7 +39,6 @@ Libraries/Frameworks:
 <table>
   <tr>
     <td>
-      <img src="./metrics.plugin.leetcode.svg" alt="LeetCode Stats" />
     </td>
     <td>
       <img src="https://github-readme-stats.vercel.app/api/top-langs?username=muhaiminmemon&show_icons=true&locale=en&layout=compact&theme=dark" alt="muhaiminmemon" />
