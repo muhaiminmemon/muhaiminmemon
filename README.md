@@ -1,10 +1,12 @@
+<!-- ─────────────────────────  HERO  ───────────────────────── -->
+ 
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=180&section=header&text=muhaimin&fontSize=70&fontColor=ffffff&fontAlignY=38&animation=fadeIn" alt="header" />
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=200&section=header&text=muhaimin&fontSize=80&fontColor=ffffff&fontAlignY=38&animation=fadeIn" alt="header" />
 <a href="https://www.linkedin.com/in/muhaiminmemon/">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=2200&pause=900&color=58A6FF&center=true&vCenter=true&width=600&lines=cs+%2B+management+%40+uoft;mlops+engineer+intern+%40+autodesk" alt="typing" />
-
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2200&pause=900&color=58A6FF&center=true&vCenter=true&width=620&lines=cs+%2B+management+%40+uoft;mlops+engineer+intern+%40+autodesk" alt="typing" />
+</a>
+<br/>
+<img src="https://komarev.com/ghpvc/?username=muhaiminmemon&label=profile+views&color=58A6FF&style=flat" alt="profile views" />
 </div>
 
 ---
