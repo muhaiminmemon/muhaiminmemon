@@ -1,5 +1,6 @@
 # hey, i'm muhaimin
 
+cs + management @ uoft
 ---
 
 ## what i've done
