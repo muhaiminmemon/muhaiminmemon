@@ -1,7 +1,5 @@
 # hey, i'm muhaimin
 
-cs + management @ uoft. building useful shit.
-
 ---
 
 ## what i've done
