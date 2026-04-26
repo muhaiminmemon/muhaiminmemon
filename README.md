@@ -36,4 +36,4 @@ cs + management @ uoft. building useful shit.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-muhaiminmemon-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/muhaiminmemon/)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=muhaiminmemon&layout=compact&theme=dark&hide_border=true)
+
