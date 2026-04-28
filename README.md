@@ -33,7 +33,7 @@ $ ls ~/shipping
 ```
 
 - **MLOps Engineer intern** `@ Autodesk`
-- **AI GPU optimizer** — ML-driven GPU resource scheduling and optimization engine. dynamic workload profiling, predictive compute allocation, and real-time performance tuning across distributed GPU clusters.
+- **Tessera** — open-source multi-task synthetic data framework for LLM fine-tuning. pluggable task templates (classification, extraction, instruction-following), persona-based generation, multi-model orchestration across GPT-4o-mini / Claude / Llama, embedding-based deduplication, and end-to-end validation via Unsloth LoRA fine-tuning on standard benchmarks.
 
 ---
 
